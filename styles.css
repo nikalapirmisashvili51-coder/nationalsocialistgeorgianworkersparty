@@ -52,8 +52,8 @@ img, svg { max-width: 100%; height: auto; }
   justify-content: space-between;
   padding: 12px 0;
 }
-.brand { display: inline-flex; align-items: center; gap: 10px; }
-.brand-name { font-weight: 700; color: var(--white); font-size: 4rem; line-height: 1; }
+.brand { display: inline-flex; align-items: center; gap: 20px; }
+.brand-name { font-weight: 700; color: var(--white); font-size: 4rem; line-height: 1; letter-spacing: 0.04em; text-shadow: 0 2px 0 rgba(0,0,0,0.4), 0 0 12px rgba(212,175,55,0.6); }
 .emblem { display: inline-block; }
 
 .main-nav ul {
