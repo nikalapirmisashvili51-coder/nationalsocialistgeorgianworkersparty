@@ -82,7 +82,7 @@ img, svg { max-width: 100%; height: auto; }
   align-items: center;
 }
 .hero-copy h1 { margin: 0 0 12px; }
-.tagline { color: #e5e5e5; margin-top: 0; font-size: 4rem; font-weight: 700; }
+.tagline { color: #e5e5e5; margin-top: 0; font-size: 0.5rem; font-weight: 700; }
 
 .btn {
   display: inline-block;
