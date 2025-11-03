@@ -176,7 +176,8 @@ input:focus, textarea:focus { outline: 2px solid var(--gold); outline-offset: 2p
 
 
 
-#logo { content: url('https://i.imgur.com/2rUP7vL.png') !important; width:280px; margin:30px auto; display:block; filter: drop-shadow(0 0 20px gold); }
+#logo { width:280px; margin:30px auto; display:block; filter: drop-shadow(0 0 20px gold); }
 
 h1 { color: gold; font-size: 3em; text-shadow: 3px 3px #000; }
+
 
