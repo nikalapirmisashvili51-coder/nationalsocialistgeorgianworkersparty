@@ -84,9 +84,9 @@ img, svg { max-width: 100%; height: auto; }
 .hero-copy h1 { margin: 0 0 12px; }
 .hero-copy h1 {
   display: inline-block;
-  border: 2px solid #000000;
-  border-radius: 10px;
-  padding: 8px 14px;
+  border: none;
+  border-radius: 0;
+  padding: 0;
 }
 .tagline {
   color: #000000;
